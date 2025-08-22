@@ -31,9 +31,9 @@ This project analyzes sales performance using the popular Superstore dataset. Th
 
 ##  Key Insights
 
-- **Sales peaked in Q4 of 2021**, following seasonal trends.
+- **2021 recorded the highest sales** among the four years, with a **20.4% increase** compared to 2020.
 - The **Consumer** segment led sales, especially in **California** and **New York**.
-- **Office Supplies** were top sellers in volume but had lower profit margins compared to **Technology**.
+- **Technology** was the leading product category in sales, followed by Office Supplies and Furniture.
 - A small number of products contributed disproportionately to total revenue, suggesting opportunities for focused marketing or bundling.
 
 ---
@@ -49,8 +49,9 @@ This dashboard helps retail teams:
 
 ##  Screenshots
 
-*Include 1–3 screenshots of your dashboard here (saved as PNGs and uploaded to GitHub repo). Example:*
+[Superstore Overview] <img width="1002" height="802" alt="Overview(DB)" src="https://github.com/user-attachments/assets/669586ae-575e-4180-a2b1-7ea2fd2d370e" />
+ 
+[Segment Breakdown] <img width="1099" height="879" alt="Segment(DB)" src="https://github.com/user-attachments/assets/59a5660b-4935-494d-b940-333979fe075b" />
 
-![Superstore Overview](screenshots/superstore_overview.png)  
-![Segment Breakdown](screenshots/superstore_segment.png)  
-![Product Ranking](screenshots/superstore_product.png)
+[Product Ranking] <img width="1099" height="879" alt="Product(DB)" src="https://github.com/user-attachments/assets/e7374b10-0ce2-4ebb-afc0-50cc9d06b091" />
+
